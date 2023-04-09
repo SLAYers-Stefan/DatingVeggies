@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1681019228 source:c:\users\stef\desktop\codeblocks\datingveg\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<cstdlib>
+	<fstream>
+
